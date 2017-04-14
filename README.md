@@ -13,3 +13,10 @@ Java 常见问题处理
 
 解决办法如下：
 在eclipse中，compiler 都得设置到1.6。这包括preference->java->compiler 下要改成1.6, 同时，project里的build path 里jdk 也得改成1.6。 这主要是针对同时装了1.5, 1.6,而default is 1.5这种情况的。
+
+
+# TODO
+
+Java运行时动态生成class的方法 ： http://www.liaoxuefeng.com/article/0014617596492474eea2227bf04477e83e6d094683e0536000
+
+设计一个可扩展的用户登录系统 (3) ： http://www.liaoxuefeng.com/article/00146129217054923f7784c57134669986a8875c10e135e000
